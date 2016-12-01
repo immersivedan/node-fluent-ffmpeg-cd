@@ -1,7 +1,7 @@
 {
-  "name": "fluent-ffmpeg",
-  "version": "2.1.0",
-  "description": "A fluent API to FFMPEG (http://www.ffmpeg.org)",
+  "name": "fluent-ffmpeg-cd",
+  "version": "2.2.0",
+  "description": "A fluent API to FFMPEG (http://www.ffmpeg.org) with concat demxuer support (https://trac.ffmpeg.org/wiki/Concatenate#demuxer).",
   "keywords": [
     "ffmpeg"
   ],
@@ -10,14 +10,13 @@
     {
       "name": "Felix Fichte",
       "email": "spruce@space-ships.de"
+    },
+    {
+      "name": "Daniel Lopez"
     }
   ],
   "license": "MIT",
-  "bugs": {
-    "mail": "schaermu@gmail.com",
-    "url": "http://github.com/fluent-ffmpeg/node-fluent-ffmpeg/issues"
-  },
-  "repository": "git://github.com/fluent-ffmpeg/node-fluent-ffmpeg.git",
+  "repository": "https://github.com/immersivedan/node-fluent-ffmpeg-cd/tarball/master",
   "devDependencies": {
     "mocha": "latest",
     "should": "latest",
