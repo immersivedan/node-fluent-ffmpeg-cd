@@ -1,6 +1,6 @@
 {
   "name": "fluent-ffmpeg-cd",
-  "version": "2.2.0",
+  "version": "2.2.1",
   "description": "A fluent API to FFMPEG (http://www.ffmpeg.org) with concat demxuer support (https://trac.ffmpeg.org/wiki/Concatenate#demuxer).",
   "keywords": [
     "ffmpeg"
